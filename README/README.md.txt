@@ -3,10 +3,9 @@
 
 > **End-to-End Data Engineering Project: From Messy CSVs to Production Dashboard**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-336791.svg)](https://www.postgresql.org/)
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-orange.svg)](https://lookerstudio.google.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python]
+[![PostgreSQL]
+[![Looker Studio]
 
 ![Project Banner](images/looker_dashboard.png)
 
@@ -597,28 +596,28 @@ This is a portfolio project, but feedback and suggestions are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is for portfolio demonstration. Data used with permission from Saint Louis University (PII masked).
 
 ---
 
 ## 👤 Author
 
-**Omar Aly**
+Omar El Tokhy
 
-- 💼 LinkedIn: [linkedin.com/in/see0mar](https://linkedin.com/in/see0mar)
+- 💼 LinkedIn: [linkedin.com/in/see0mar](https://linkedin.com/in/omareltokhy1995)
 - 🐙 GitHub: [@see0mar](https://github.com/see0mar)
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [omareltokhey@gmail.com]
 
-**Project Context**: Data Analyst Associate Internship @ Saint Louis University (via Excelerate America)
+Project Context: Data Analyst Associate Internship @ Saint Louis University (via Excelerate)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Saint Louis University** - For providing real-world data and business context
-- **Excelerate America** - For facilitating this internship opportunity
-- **Team 1** - Collaborative project management experience
-- **Open Source Community** - pandas, PostgreSQL, and Looker Studio teams
+- Saint Louis University - For providing real-world data and business context
+- Excelerate - For facilitating this internship opportunity
+- Team 1 - Collaborative project management experience
+- Open Source Community - pandas, PostgreSQL, and Looker Studio teams
 
 ---
 
@@ -626,19 +625,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Interested in discussing this project or exploring collaboration opportunities?
 
-- 📧 **Email**: [your.email@example.com]
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/see0mar)
-- 📄 **Full Article**: [Read the detailed case study](link-to-linkedin-article)
+- 📧 Email: [omareltokhey@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/see0mar](https://linkedin.com/in/omareltokhy1995)
 
-**Looking for**: Entry-level Data Analyst, BI Analyst, or Junior Data Scientist roles (Remote/Hybrid)
+Looking for: Entry-level Data Analyst, BI Analyst, or Junior Data Scientist roles (Remote/Hybrid)
 
 ---
 
 <div align="center">
 
-**⭐ If you found this project helpful, please consider giving it a star!**
-
-Made with ❤️ by Omar Aly | 2025
+⭐ If you found this project helpful, please consider giving it a star!
 
 </div>
 ```
