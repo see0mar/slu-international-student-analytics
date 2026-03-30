@@ -1,0 +1,45 @@
+-- Create materialized view with unique index on reference_id (required for CONCURRENT refresh)
+CREATE MATERIALIZED VIEW fact_student_status_mv AS
+SELECT
+    a.reference_id,
+    a.given_name,
+    a.last_name,
+    a.major,
+    a.citizenship,
+    a.intake,
+    a.application_source,
+    a.sevis_id,
+    c.deposit_status,
+    c.i20_status,
+    o.student_status,
+    CASE WHEN c.deposit_status = 'Yes' THEN 1 ELSE 0 END AS has_deposit,
+    CASE WHEN c.i20_status = 'Yes' THEN 1 ELSE 0 END AS has_i20,
+    CASE WHEN o.student_status = 'Visa approved' THEN 1 ELSE 0 END AS has_visa,
+    s.funds_from_school,
+    s.school_fund_type_standardized,
+    s.tuition_fees,
+    s.country_of_citizenship,
+    s.program_start_date,
+    s.program_end_date,
+    o.application_agency_code,
+    a.application_date,
+    c.event_timestamp AS latest_event_timestamp,
+    c.assigned
+FROM dim_applicant a
+LEFT JOIN fact_connect_events c ON a.reference_id = c.reference_id
+LEFT JOIN dim_outreach o ON a.sevis_id = o.sevis_id
+LEFT JOIN dim_sevis s ON a.sevis_id = s.sevis_id;
+
+-- Required unique index for CONCURRENT refresh and fast reference_id lookups
+CREATE UNIQUE INDEX idx_fact_student_status_mv_ref ON fact_student_status_mv (reference_id);
+
+-- Additional indexes for common filters (optional but recommended)
+CREATE INDEX idx_fact_student_status_mv_sevis ON fact_student_status_mv (sevis_id);
+CREATE INDEX idx_fact_student_status_mv_visa ON fact_student_status_mv (has_visa);
+CREATE INDEX idx_fact_student_status_mv_deposit ON fact_student_status_mv (has_deposit);
+CREATE INDEX idx_fact_student_status_mv_i20 ON fact_student_status_mv (has_i20);
+CREATE INDEX idx_fact_student_status_mv_intake ON fact_student_status_mv (intake);
+CREATE INDEX idx_fact_student_status_mv_major ON fact_student_status_mv (major);
+
+-- (Optional) If you need to refresh without locking:
+-- REFRESH MATERIALIZED VIEW CONCURRENTLY fact_student_status_mv;
