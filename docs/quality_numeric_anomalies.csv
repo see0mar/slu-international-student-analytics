@@ -1,0 +1,6 @@
+Dataset,Column,Total_Values,Outliers_Count,Outliers_%,Min_Value,Max_Value,Mean,Median
+SEVIS,Tuition_Fees,3852,1095,28.43,7055.0,65000.0,25514.06,21000.0
+SEVIS,Living_Expenses,3852,952,24.71,0.0,22100.0,18230.65,18150.0
+SEVIS,Student's_Personal_Funds,3852,722,18.74,0.0,95000.0,6970.44,0.0
+SEVIS,Funds_From_This_School,3849,483,12.55,0.0,76964.0,5717.86,1000.0
+SEVIS,Funds_From_Other_Sources,3846,970,25.22,0.0,250000.0,34115.17,38150.0

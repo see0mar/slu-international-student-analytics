@@ -1,0 +1,4 @@
+Check,Source_Count,Target_Count,Matched,Missing,Match_Rate_%
+Applicant SEVIS_IDs → SEVIS Data,2605,3852,615,1990,23.61
+Connect Reference_IDs → Applicant Data,6875,6893,6875,0,100.0
+Outreach SEVIS_IDs → SEVIS/Applicant Data,1561,5842,1560,1,99.94

@@ -1,0 +1,6 @@
+Dataset,Email_Column,Total_Non_Null,Has_@_Symbol,Has_Valid_Domain,Is_SLU_Email,Potential_Issues,Issue_%
+Applicant,Email_ID,6894,6894,6850,24,0,0.0
+Applicant,Official_University_email_address,6831,6831,6831,6831,0,0.0
+SEVIS,Email,3848,3848,3848,3840,0,0.0
+Outreach,Person_Email,1565,1565,1562,1,0,0.0
+Outreach,Person_SLU_Email_Address,1565,1565,1565,1565,0,0.0

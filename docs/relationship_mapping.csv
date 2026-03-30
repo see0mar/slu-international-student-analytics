@@ -1,0 +1,5 @@
+Dataset,Has_Reference_ID,Has_SEVIS_ID,Role
+Applicant,✓,✓,🔑 KNOT FILE (Has both IDs)
+SEVIS,✗,✓,Links via SEVIS_ID
+Connect,✓,✗,Links via Reference_ID
+Outreach,✗,✓,Links via SEVIS_ID

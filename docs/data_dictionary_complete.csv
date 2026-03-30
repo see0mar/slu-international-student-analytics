@@ -1,0 +1,180 @@
+Dataset,Column_Name,Data_Type,Non_Null_Count,Null_Count,Null_%,Unique_Values,Sample_Value
+Applicant,Reference_ID,int64,6894,0,0.0,6893,1289258
+Applicant,Given_Name,object,6894,0,0.0,4741,Adekunle
+Applicant,Last_Name,object,6894,0,0.0,5140,Adefowoju
+Applicant,Major,object,6893,1,0.01,88,BusinessAdministration(MBA)ProfessionalMBA(Evening
+Applicant,Country,object,19,6875,99.72,3,Nigeria
+Applicant,Received_At,float64,6894,0,0.0,2,1740000000000.0
+Applicant,University,object,6894,0,0.0,1,Saint Louis University
+Applicant,Citizenship,object,6892,2,0.03,100,Nigeria
+Applicant,Intake,object,6894,0,0.0,13,Fall 2024
+Applicant,College_1st_Choice,object,19,6875,99.72,9,Health Data Science (MS)
+Applicant,Phone_Number,object,6800,94,1.36,6598,2.35E+12
+Applicant,Street_1,object,6853,41,0.59,6734,"9,HappinessEstateOffAmuleBusStopAyoboIpajaLagosNig"
+Applicant,Street_2,object,1729,5165,74.92,1577,IW83BreadfruitStreet
+Applicant,Street_3,object,63,6831,99.09,60,Gs00116388
+Applicant,City,object,6889,5,0.07,1722,Lagos
+Applicant,Region,object,6575,319,4.63,546,LA
+Applicant,Postal,object,6396,498,7.22,2834,10001
+Applicant,Email_ID,object,6894,0,0.0,6893,henfakresources11@gmail.com
+Applicant,Date_of_Birth,object,6875,19,0.28,4060,4/28/2009
+Applicant,Comments,float64,0,6894,100.0,0,N/A
+Applicant,Phone_Number_2,object,190,6704,97.24,189,7067957137
+Applicant,Admit_Date,float64,0,6894,100.0,0,N/A
+Applicant,Most_Recent_Released_Decision,object,6748,146,2.12,342,11/26/2024
+Applicant,Application_Source,object,6893,1,0.01,9,ERXWebAPP
+Applicant,Is_Global_Grad,object,6875,19,0.28,2,Yes
+Applicant,SEVIS_ID,object,2606,4288,62.2,2605,N0035046907
+Applicant,Official_University_email_address,object,6831,63,0.91,6830,adekunle.adefowoju@slu.edu
+Applicant,Application_Agency_Code,object,2567,4327,62.76,102,GRC05
+Applicant,Created_At,float64,6894,0,0.0,2,1740000000000.0
+Applicant,Modified_At,float64,6894,0,0.0,2,1740000000000.0
+SEVIS,SEVIS_ID,object,3852,0,0.0,3852,N0035966363
+SEVIS,NonImmigrant_ID,int64,3852,0,0.0,3852,35966363
+SEVIS,FIN_ID,float64,122,3730,96.83,122,1362267167.0
+SEVIS,SEVIS_Status,object,3852,0,0.0,1,INITIAL
+SEVIS,Status_Change_Date,object,3852,0,0.0,236,6/27/2024
+SEVIS,Class_of_Admission,object,3852,0,0.0,1,F-1
+SEVIS,Surname_Or_Primary_Name,object,3852,0,0.0,2979,Anya
+SEVIS,Given_Name,object,3702,150,3.89,3063,Kelechi Amaechi
+SEVIS,Suffix,float64,0,3852,100.0,0,N/A
+SEVIS,Preferred_Name,object,3852,0,0.0,3479,Kelechi Anya
+SEVIS,SEVIS_Legacy_First_Name,float64,0,3852,100.0,0,N/A
+SEVIS,SEVIS_Legacy_Middle_Name,float64,0,3852,100.0,0,N/A
+SEVIS,SEVIS_Legacy_Last_Name,float64,0,3852,100.0,0,N/A
+SEVIS,Country_of_Birth,object,3852,0,0.0,74,NIGERIA
+SEVIS,City_of_Birth,object,90,3762,97.66,71,Ramayapalem
+SEVIS,Date_of_Birth,object,3851,1,0.03,2502,1/26/1995
+SEVIS,Country_of_Citizenship,object,3852,0,0.0,76,NIGERIA
+SEVIS,Gender,object,3852,0,0.0,2,FEMALE
+SEVIS,US_Physical_Address_Status,object,30,3822,99.22,4,ADDRESS_VALID
+SEVIS,US_Physical_Address_1,object,30,3822,99.22,27,1667 HUNTINGTON HILL DR APT G
+SEVIS,US_Physical_Address_2,object,5,3847,99.87,5,Grand Forest 3422 - 22DB
+SEVIS,US_Physical_City,object,30,3822,99.22,18,MANCHESTER
+SEVIS,US_Physical_State,object,30,3822,99.22,8,MO
+SEVIS,US_Physical_Postal_Code,float64,30,3822,99.22,20,63021.0
+SEVIS,US_Physical_Routing_Code,float64,13,3839,99.66,12,8148.0
+SEVIS,US_Mailing_Address_Status,object,12,3840,99.69,2,ADDRESS_VALID_OVERRIDE
+SEVIS,US_Mailing_Address_1,object,12,3840,99.69,12,3410 Tulane Dr Apt 23
+SEVIS,US_Mailing_Address_2,float64,0,3852,100.0,0,N/A
+SEVIS,US_Mailing_City,object,12,3840,99.69,10,Hyattsville
+SEVIS,US_Mailing_State,object,12,3840,99.69,6,MD
+SEVIS,US_Mailing_Postal_Code,float64,12,3840,99.69,12,20783.0
+SEVIS,US_Mailing_Routing_Code,float64,1,3851,99.97,1,2712.0
+SEVIS,Foreign_Address_1,object,3852,0,0.0,3821,"32, Samuel Street, Akowonjo road, Egbeda"
+SEVIS,Foreign_Address_2,object,1770,2082,54.05,1595,Annapurna Colony Mallapur
+SEVIS,Foreign_City,object,3846,6,0.16,1021,Lagos
+SEVIS,Foreign_State_Province,object,213,3639,94.47,60,Andhra Pradesh
+SEVIS,Foreign_Country,object,3852,0,0.0,79,NIGERIA
+SEVIS,Foreign_Postal_Code,object,3148,704,18.28,1436,10027
+SEVIS,Email,object,3848,4,0.1,3836,kelechi.anya@slu.edu
+SEVIS,US_Telephone,float64,5,3847,99.87,5,3146066043.0
+SEVIS,No_Phone_Indicator,object,3851,1,0.03,2,Y
+SEVIS,Foreign_Telephone_Country_Code,float64,24,3828,99.38,10,233.0
+SEVIS,Foreign_Telephone,float64,24,3828,99.38,24,270643033.0
+SEVIS,Number_of_Months_(for_funding),int64,3852,0,0.0,4,9
+SEVIS,Passport_Name,object,9,3843,99.77,9,Maridi Ragha Vishnu
+SEVIS,Passport_Number,object,532,3320,86.19,532,X6054185
+SEVIS,Passport_Expiration_Date,object,120,3732,96.88,112,4/28/2034
+SEVIS,Passport_Country_of_Issuance,object,120,3732,96.88,20,IN
+SEVIS,Visa_Number,object,531,3321,86.21,529,U7459187
+SEVIS,Visa_Issuance_Date,object,525,3327,86.37,98,6/28/2024
+SEVIS,Visa_Expiration_Date,object,524,3328,86.4,157,6/24/2029
+SEVIS,Visa_Issuance_Post,object,377,3475,90.21,69,MUMBAI (BOMBAY)
+SEVIS,Port_of_Entry,object,122,3730,96.83,23,BOS
+SEVIS,Date_of_Entry,object,122,3730,96.83,32,7/17/2024
+SEVIS,I_94_Admission_Number,object,105,3747,97.27,105,067413500A4
+SEVIS,Port_of_Departure,object,17,3835,99.56,12,CLT
+SEVIS,Date_of_Departure,object,17,3835,99.56,17,7/8/2023
+SEVIS,Tuition_Fees,int64,3852,0,0.0,34,21000
+SEVIS,Living_Expenses,int64,3852,0,0.0,12,18150
+SEVIS,Dependent_Expenses,float64,3840,12,0.31,10,6000.0
+SEVIS,Other_Costs,float64,3839,13,0.34,2,0.0
+SEVIS,Other_Costs_Comment,object,6,3846,99.84,1,Health Insurance
+SEVIS,Student's_Personal_Funds,int64,3852,0,0.0,159,0
+SEVIS,Funds_From_This_School,float64,3849,3,0.08,67,5500.0
+SEVIS,School_Fund_Type,object,3324,528,13.71,20,Scholarship
+SEVIS,Funds_From_Other_Sources,float64,3846,6,0.16,278,39650.0
+SEVIS,Other_Source_Type,object,3167,685,17.78,198,Family Funds
+SEVIS,On-Campus_Employment,float64,3836,16,0.42,3,0.0
+SEVIS,Date_of_Last_Event,object,3852,0,0.0,136,7/1/2024
+SEVIS,Termination_Reason,float64,0,3852,100.0,0,N/A
+SEVIS,Other_Termination_Comment,float64,0,3852,100.0,0,N/A
+SEVIS,School_Name,object,3852,0,0.0,1,Saint Louis University
+SEVIS,School_Code,object,3852,0,0.0,1,KAN214F10192000
+SEVIS,Campus_Name,object,3852,0,0.0,1,Saint Louis University
+SEVIS,Campus_Code,object,3852,0,0.0,1,KAN214F10192000
+SEVIS,I_20_Issue_Reason,object,3852,0,0.0,4,INITIAL
+SEVIS,Education_Level,object,3852,0,0.0,5,MASTER'S
+SEVIS,Major_1_Code,float64,3852,0,0.0,87,52.1301
+SEVIS,Major_1_Description,object,3852,0,0.0,87,Management Science
+SEVIS,Major_1_CIP_2020_Conversion,object,3852,0,0.0,1,N
+SEVIS,Major_2_Code,float64,3852,0,0.0,15,0.0
+SEVIS,Major_2_Description,object,32,3820,99.17,14,Bioinformatics
+SEVIS,Major_2_CIP_2020_conversion,object,3852,0,0.0,1,N
+SEVIS,Minor_Code,int64,3852,0,0.0,1,0
+SEVIS,Minor_Description,float64,0,3852,100.0,0,N/A
+SEVIS,Minor_CIP_2020_Conversion,object,3852,0,0.0,1,N
+SEVIS,Program_Start_Date,object,3852,0,0.0,17,8/12/2024
+SEVIS,Program_End_Date,object,3852,0,0.0,22,5/31/2026
+SEVIS,Initial_Session_Start_Date,object,3852,0,0.0,16,8/21/2024
+SEVIS,Current_Session_Start_Date,object,3852,0,0.0,16,8/21/2024
+SEVIS,Current_Session_End_Date,float64,0,3852,100.0,0,N/A
+SEVIS,Next_Session_Start_Date,float64,0,3852,100.0,0,N/A
+SEVIS,Last_Session,float64,0,3852,100.0,0,N/A
+SEVIS,Study_Research_Abroad,float64,0,3852,100.0,0,N/A
+SEVIS,Thesis_Or_Dissertation,float64,0,3852,100.0,0,N/A
+SEVIS,School_Requires_English_Proficiency,object,3852,0,0.0,2,Y
+SEVIS,Student_Has_English_Proficiency,object,3850,2,0.05,2,Y
+SEVIS,English_Is_Not_Required_Because,object,21,3831,99.45,1,Language training will be provided by the universi
+SEVIS,CPT_Approved,object,3852,0,0.0,1,N
+SEVIS,OCE_Requested,object,3852,0,0.0,1,N
+SEVIS,OCE_Approved,object,3852,0,0.0,1,N
+SEVIS,Pre-Completion_OPT_Requested,object,3852,0,0.0,1,N
+SEVIS,Pre-Completion_OPT_Approved,object,3852,0,0.0,1,N
+SEVIS,Post-Completion_OPT_Requested,object,3852,0,0.0,1,N
+SEVIS,Post-Completion_OPT_Approved,object,3852,0,0.0,1,N
+SEVIS,STEM_OPT_Requested,object,3852,0,0.0,1,N
+SEVIS,STEM_OPT_Approved,object,3852,0,0.0,1,N
+SEVIS,Cap_Gap_Extended,object,3852,0,0.0,1,N
+SEVIS,Student_Requested_Reinstatement,object,3852,0,0.0,1,N
+SEVIS,Student_Change_of_Status_Request,object,3852,0,0.0,1,N
+SEVIS,Student_Extension_Requested,object,3852,0,0.0,1,N
+SEVIS,Student_Authorized_to_Drop_Below_Full_Course_of_Study,object,3852,0,0.0,1,N
+SEVIS,Student_Transfer_Out,object,3852,0,0.0,1,N
+SEVIS,I-901_Transaction_Type,object,2108,1744,45.28,2,Payment
+SEVIS,I-901_Transaction_Date,object,2108,1744,45.28,273,11/20/2023
+SEVIS,I-901_Transaction_Amount,float64,2108,1744,45.28,2,350.0
+SEVIS,I-901_Fee_Payment_Receipt,object,2108,1744,45.28,2108,AAA2405170028
+SEVIS,Border_Commuter_Student,object,3849,3,0.08,1,N
+SEVIS,Correction_Request_Pending,object,3852,0,0.0,1,N
+SEVIS,Cancellation_Reason,float64,0,3852,100.0,0,N/A
+SEVIS,Overall_Remarks,object,3450,402,10.44,39,Student must report to university within 7 days of
+SEVIS,Length_of_Next_Break_of_Vacation,int64,3852,0,0.0,1,0
+SEVIS,OPT_Portal,object,3852,0,0.0,2,N
+Connect,Reference_ID,int64,34341,0,0.0,6875,1320577
+Connect,Deposit_Status,object,34341,0,0.0,2,Yes
+Connect,Assigned,object,14531,19810,57.69,335,"Anna Kluemke, Mounika Bhuvana Maheswari Krishnamur"
+Connect,Recieved_At,object,34341,0,0.0,7,4/14/2025 19:55
+Connect,University,object,34341,0,0.0,1,Saint Louis University
+Connect,I_20_Status,object,34341,0,0.0,2,Yes
+Connect,Created_At,float64,34341,0,0.0,2,1740000000000.0
+Connect,Modified_At,float64,34341,0,0.0,2,1740000000000.0
+Outreach,Student_Full_Name,object,1565,0,0.0,1558,Chatarajupalli Dhruvakumar
+Outreach,Program_Of_interest,object,1565,0,0.0,47,Health Data Science (MS)
+Outreach,Term,object,1565,0,0.0,2,Fall 2024
+Outreach,Application_Source,object,1565,0,0.0,7,INTO
+Outreach,Global_Grad_Indicator,object,1565,0,0.0,2,No
+Outreach,Deposit_Paid,object,1565,0,0.0,2,Yes
+Outreach,Accepted_Admission,object,1565,0,0.0,2,Yes
+Outreach,SEVIS_ID,object,1565,0,0.0,1561,N0035601594
+Outreach,I_20_In_Slate,object,1565,0,0.0,2,Yes
+Outreach,Person_Email,object,1565,0,0.0,1560,dhruvakumar1718@gmail.com
+Outreach,Person_SLU_Email_Address,object,1565,0,0.0,1560,dhruvakumar.chatarajupalli@slu.edu
+Outreach,I_901_Status,object,1565,0,0.0,1,Payment
+Outreach,Citizenship_(Primary),object,1565,0,0.0,34,India
+Outreach,Application_Agency_Code,object,1221,344,21.98,111,INTO SLU
+Outreach,Contact_Number,object,1531,34,2.17,1524,7731891178
+Outreach,Student_Status,object,1565,0,0.0,4,Visa approved
+Outreach,Remarks,object,817,748,47.8,6,Not interested in SLU
+Outreach,Appointment_Date,object,373,1192,76.17,100,22-Jul

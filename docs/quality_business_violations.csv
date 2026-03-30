@@ -1,0 +1,3 @@
+Rule,Total_Records,Violations,Violation_%,Severity
+Deposit → I-20 Issued,1512,262,17.33,HIGH
+Visa Approved → SEVIS_ID,382,0,0.0,NONE

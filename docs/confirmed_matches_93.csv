@@ -1,0 +1,42 @@
+visa_sevis_id,visa_name,visa_email,visa_country,visa_intake,applicant_reference_id,applicant_name,applicant_email,applicant_country,applicant_intake,name_score,email_match,country_match,intake_match,combined_score,Confirmed
+N0034653831,Parasa Hari Sandeep Kumar,harisandeepkumarp@gmail.com,India,Fall 2024,1388766,David Raj Kumar Sandela,davidrajkumar648@gmail.com,India,Fall 2025,70.83333333,FALSE,TRUE,FALSE,80.83333333,1
+N0035703975,Vaswani Malvika Kamalkumar,dr.malvikavaswani@gmail.com,India,Fall 2024,1389263,Malvika Kamalkumar Vaswani,dr.malvikavaswani@gmail.com,India,Spring 2025,100,TRUE,TRUE,FALSE,100,1
+N0035407565,Shaik Sayeed,shaiksayeed6251999@gmail.com,India,Fall 2024,1390865,Amer Shaik,shaikamer22081999@gmail.com,India,Fall 2025,72.72727273,FALSE,TRUE,FALSE,82.72727273,1
+N0035665494,Kaur Preet,preetxkaur03@gmail.com,India,Fall 2024,1393959,Manpreet Kaur,gspmankaur@gmail.com,India,Fall 2025,86.95652174,FALSE,TRUE,FALSE,96.95652174,1
+N0035382598,Mohammad Muzamil Aldin,mohammadmuzamilaldin@gmail.com,India,Fall 2024,1396346,Mudassir Hussain Mohammad,mudassirhussain.h@outlook.com,India,Summer 2025,72.34042553,FALSE,TRUE,FALSE,82.34042553,1
+N0035520978,Kalakota Chandana Devi,kalakota.24f@gmail.com,India,Fall 2024,1397431,Chandana Rodda,chandanarodda7@gmail.com,India,Fall 2025,72.72727273,FALSE,TRUE,FALSE,82.72727273,1
+N0035496952,Hussain Mohammed Rahmath,hmohdrahmath@gmail.com,India,Fall 2024,1420205,Shujath Hussain Mohammed,mdshujathhussain858@gmail.com,India,Fall 2025,87.5,FALSE,TRUE,FALSE,97.5,1
+N0035808751,Mohammed Zareef Ul Hasan,mohdzareef81200@gmail.com,India,Fall 2024,1423887,Hassan Muzafer Mohammed,mhassan01m@gmail.com,India,Spring 2025,80.85106383,FALSE,TRUE,FALSE,90.85106383,1
+N0035924545,Mohammed Sohail,mohammedsohail1337@gmail.com,India,Fall 2024,1430745,Sohail Mohammed,mohammedsohail30@outlook.com,India,Fall 2025,100,FALSE,TRUE,FALSE,100,1
+N0035789013,Hussain Mohammed Zaveed,zaveedinfo@gmail.com,India,Fall 2024,1433946,Tahir hussain Mohammed,mohammedtahirhussain2@gmail.com,India,Summer 2025,84.21052632,FALSE,TRUE,FALSE,94.21052632,0
+N0035383880,Khan Khan Mohammed Hussain Ali,khanalihussain2024@gmail.com,India,Fall 2024,1433946,Tahir hussain Mohammed,mohammedtahirhussain2@gmail.com,India,Summer 2025,84.21052632,FALSE,TRUE,FALSE,94.21052632,0
+N0035873870,Gullapalli Rupak Vardhan,rupakvardhan9@gmail.com,India,Fall 2024,1441158,Sudarshan Nagulapalli,sudarshan.nagulapalli@gmail.com,India,Fall 2025,71.11111111,FALSE,TRUE,FALSE,81.11111111,1
+N0035563810,Tamminidi Yashwanth Sai,yashwanthsai.kcs237@gmail.com,India,Fall 2024,1444318,Sai Yaswanth Yadavalli,shannusudha0424@gmail.com,India,Summer 2025,71.11111111,FALSE,TRUE,FALSE,81.11111111,1
+N0035471835,Karuturi Praveen Babu,karuturipraveenbabu@gmail.com,India,Fall 2024,1446634,Praveen K S,praveenbalaji1999@gmail.com,India,Fall 2025,77.77777778,FALSE,TRUE,FALSE,87.77777778,1
+N0035694168,Mohammed Ather,athermohd2000@gmail.com,India,Fall 2024,1447934,Mohammed Ather,mohammedather2697@gmail.com,India,Summer 2025,100,FALSE,TRUE,FALSE,100,1
+N0035330795,Adabala Sai Jyothi Jyothi Jyothi,asjyothigayathri@gmail.com,India,Fall 2024,1448570,Gayathri Venkata Sai Jyothi Beesetti,gayathribeesetti212@gmail.com,India,Fall 2025,71.42857143,FALSE,TRUE,FALSE,81.42857143,1
+N0035531517,Mohammad Owais Fnu Mohammad,owaismd31@gmail.com,India,Fall 2024,1448728,Fnu Mohammad Zaid,mzaid26090@gmail.com,India,Summer 2025,85.71428571,FALSE,TRUE,FALSE,95.71428571,1
+N0035823629,Shaik Sahil,sahilshaik91608@gmail.com,India,Fall 2024,1449037,Baji Shaik,baji85371@gmail.com,India,Fall 2025,76.19047619,FALSE,TRUE,FALSE,86.19047619,1
+N0035829892,Mohammad Amer,amermohammad1245@gmail.com,India,Fall 2024,1449055,Ameer Mohammed,ameermohd20@gmail.com,India,Fall 2025,88.88888889,FALSE,TRUE,FALSE,98.88888889,1
+N0035924788,Huzaifa Yaman Mohammed Mohammed Huzaifa Yaman,huzaifastudentyaman@gmail.com,India,Fall 2024,1450405,Zaid Mohammed,mohammedzaid9989@gmail.com,India,Summer 2025,76.19047619,FALSE,TRUE,FALSE,86.19047619,1
+N0035658920,Shameem Fnu,shameembanu2427@gmail.com,India,Fall 2024,1451668,Fnu Aisha,aishayezda@gmail.com,India,Fall 2025,70,FALSE,TRUE,FALSE,80,1
+N0035702243,Madireddy Sindhu,madireddy1409@gmail.com,India,Fall 2024,1451942,Rishika Reddy Madi Reddy,madireddyrishikareddy06@gmail.com,India,Fall 2025,70.58823529,FALSE,TRUE,FALSE,80.58823529,1
+N0035705014,Mohd Tameem Hussain Ansari Fnu Mohd Tameem Hussain Ansari,tameemhussainansari@gmail.com,India,Fall 2024,1452131,Fnu Ahmed hussain,ahmedhussain9866@gmail.com,India,Summer 2 2025,78.57142857,FALSE,TRUE,FALSE,88.57142857,1
+N0035830251,Mohammed Ibrahim Khan Fnu Mohammed Ibrahim Khan,ibrahimkhan8191@gmail.com,India,Fall 2024,1452610,Ibrahim Mohammed,ibrahim376079@gmail.com,India,Fall 2025,100,FALSE,TRUE,FALSE,100,1
+N0035900640,Avula Akshaya,avulaakshaya95@gmail.com,India,Fall 2024,1453569,Akshaya Challa,akshayachalla1604@gmail.com,India,Fall 2025,81.48148148,FALSE,TRUE,FALSE,91.48148148,1
+N0035830256,Asiya Fnu,asiya.asiya1808@gmail.com,India,Fall 2024,1453596,Fnu Riya,rivagupta751@gmail.com,India,Fall 2025,82.35294118,FALSE,TRUE,FALSE,92.35294118,1
+N0035738800,Kadiveti Harshitha,harshithakadiveti25@gmail.com,India,Fall 2024,1455764,Harshitha Neela,harshithaneela28@gmail.com,India,Fall 2025,75,FALSE,TRUE,FALSE,85,1
+N0035839009,Chandupatla Chandradeep Reddy,chandradeepreddychandupatla@gmail.com,India,Fall 2024,1457819,Charan Deep Reddy Saddikuti,scharandeep.edu2025@gmail.com,India,Fall 2025,71.42857143,FALSE,TRUE,FALSE,81.42857143,1
+N0035781562,Mohammed Siraj Uddin,sirajufarooqui04@gmail.com,India,Fall 2024,1457836,Aqib uddin Mohammed,aqibuddin0003@gmail.com,India,Fall 2025,84.84848485,FALSE,TRUE,FALSE,94.84848485,1
+N0035702012,Vempati Prathyusha,vempatiprathyusha2000@gmail.com,India,Fall 2024,1457841,Prathyusha Sodabathula,sodabathulaprathyusha.vij@gmail.com,India,Fall 2025,71.42857143,FALSE,TRUE,FALSE,81.42857143,1
+N0035636618,Bakkamanthula Ajay,bakkamanthulaajay2001@gmail.com,India,Fall 2024,1458156,Sri Sathvika Bakkamanthula,srisathvikab@gmail.com,India,Fall 2025,83.87096774,FALSE,TRUE,FALSE,93.87096774,1
+N0035126733,Abdullah Ahmed Fnu Abdullah Ahmed,ahmedstock2020@gmail.com,India,Fall 2024,1458576,Fnu Abdullah Abdul Qhayum,abdulqhayumindia@gmail.com,India,Fall 2025,80,FALSE,TRUE,FALSE,90,1
+N0035420218,Mohammed Ishaq Mujtaba Mujtaba,ishaqmujtaba786@gmail.com,India,Fall 2024,1459654,Mujtaba Ahmed Mohammed,mujtabasv@gmail.com,India,Fall 2025,84.21052632,FALSE,TRUE,FALSE,94.21052632,1
+N0035085259,Bejjanki Divya,divyabejjanki164@gmail.com,India,Fall 2024,1459765,Bharathi Kalyani Bejjanki,bbharathikalyani@gmail.com,India,Fall 2025,72.72727273,FALSE,TRUE,FALSE,82.72727273,1
+N0035574368,Ediga Ediga Sai Priya,priyagoud2809@gmail.com,India,Fall 2024,1459836,Sai Priya Vempalli,saipriyavempalli5@gmail.com,India,Fall 2025,75,FALSE,TRUE,FALSE,85,1
+N0035711670,Dharavathu Venkatesh,vij1527658@gmail.com,India,Fall 2024,1460702,Venkatesh Koka,kokavenkatesh03@outlook.com,India,Fall 2025,78.26086957,FALSE,TRUE,FALSE,88.26086957,1
+N0035572773,Shaik Ahmad Alisha,shaikalishams@gmail.com,India,Fall 2024,1462089,Mohammad Shoaib Shaik,smds8960@gmail.com,India,Fall 2025,71.79487179,FALSE,TRUE,FALSE,81.79487179,1
+N0035368869,Aragonda Gayathri,reddygayi222@gmail.com,India,Fall 2024,1464027,Gayathri Ramanathan,gayathriram1416@gmail.com,India,Fall 2025,72.22222222,FALSE,TRUE,FALSE,82.22222222,1
+N0035705101,Mohammed Zubair Pasha,mohdzubairpasha17@gmail.com,India,Fall 2024,1464471,Zubair Mohammed,mohd.zubair020522@gmail.com,India,Fall 2025,100,FALSE,TRUE,FALSE,100,1
+N0035024267,Vasa Sharvani,sharvani.gs103@gmail.com,India,Fall 2024,1464787,Sharvani Gurupadayya Salimath,gssharvani@gmail.com,India,Fall 2025,76.19047619,FALSE,TRUE,FALSE,86.19047619,1
+N0035626435,Sofia Shireen Fnu,sofiashireen01@outlook.com,India,Fall 2024,1465188,Fnu Amreen Fatima,fatimaamreen752@gmail.com,India,Fall 2025,70.58823529,FALSE,TRUE,FALSE,80.58823529,1

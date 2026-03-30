@@ -1,0 +1,4 @@
+Issue,Dataset,Details,Impact,Action
+High Duplication Rate,Connect,80.0% duplicate Reference_ID,"Inflates metrics, requires deduplication for student-level analysis",Investigate if this is event log vs status table
+Low Cross-File Match Rate,Applicant SEVIS_IDs → SEVIS Data,Only 23.6% match,Data synchronization issue or timing mismatch,Verify data export dates and sync process
+Business Logic Violation,Deposit → I-20 Issued,262 violations (17.3%),Process bottleneck or data entry issues,Review workflow and data entry procedures
