@@ -48,7 +48,7 @@ slu-international-student-analytics/
 
 │   └── validation_suite.sql         # Automated data integrity checks
 
-├── images/                          # Dashboard screenshots and ERDs
+├── dashboard/                          # Dashboard screenshots and ERDs
 
 └── docs/
 
